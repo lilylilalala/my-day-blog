@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Apr 24 10:34:57 2018
+
+@author: Underwood
+"""
+
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
